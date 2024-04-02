@@ -3,7 +3,7 @@ from Calculation import sub
 from Calculation import div
 from Calculation import mul
 
-def add_test():
+def test_add():
     assert add(1,2) == 3
     assert add(4,5) == 9
     assert add (101,105) == 206
