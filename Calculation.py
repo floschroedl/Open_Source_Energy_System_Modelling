@@ -16,5 +16,5 @@ def div(a, b):
 
 
 def mul(a, b):
-    """multiplie a with b and return result"""
+    """multiply a with b and return result"""
     return a * b
