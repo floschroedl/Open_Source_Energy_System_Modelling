@@ -6,3 +6,7 @@ Copyrigth Florian Schrödl
 
 
 Simple Programm for the lecture Open Source Energy System Modelling LVA 370.062
+
+The code contains for calculations, add, subtract, multiply and divide. 
+
+

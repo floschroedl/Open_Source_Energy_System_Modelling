@@ -2,6 +2,7 @@ name: Ruff
 on: [ push, pull_request ]
 jobs:
   ruff:
+    # operation system
     runs-on: windows-latest
     steps:
       - uses: actions/checkout@v4
