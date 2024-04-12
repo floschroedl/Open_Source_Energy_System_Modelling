@@ -5,20 +5,20 @@ from Calculation import mul
 
 
 def test_add():
-    assert add(1, 2) == 5
+    assert add(1, 2) == 5  # test fail
     assert add(4, 5) == 9
     assert add(101, 105) == 206
 
 
 def test_sub():
-    assert sub(5, 2) == 5
+    assert sub(5, 2) == 5  # test fail
     assert sub(17, 11) == 6
     assert sub(206, 101) == 105
 
 
 def test_div():
     assert div(10, 2) == 5
-    assert div(15, 5) == 7
+    assert div(15, 5) == 7  # test fail
     assert div(36, 6) == 6
 
 
