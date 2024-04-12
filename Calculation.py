@@ -1,6 +1,6 @@
-def add(a, b):
+def add(a,b):
     """add a and b and return result"""
-    return a + b
+    return a+ b
 
 
 def sub(a, b):
