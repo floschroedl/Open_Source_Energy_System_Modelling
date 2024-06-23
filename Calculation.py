@@ -1,6 +1,6 @@
-def add(a, b):
+def add(a,b):  # ruff test fail missing space
     """add a and b and return result"""
-    return a + b
+    return a+ b  #ruff test fail missing space
 
 
 def sub(a, b):
